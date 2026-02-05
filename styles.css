@@ -5,14 +5,14 @@
 }
 
 #octocat {
-  display: block;
-  width:384px;
+  display: flex;
+  width:484px;
   margin: 50px auto;
 }
 
 p {
   display: block;
-  width: 400px;
+  width: 480px;
   margin: 50px auto;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-size:large;
